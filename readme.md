@@ -16,6 +16,8 @@ shh...its a secret
 ##Run application
 
 ###Development
+First create a `.env` file and assign the mongo url to the variable MONGO_URL.
+To start app:
 `npm start`
 
 ###Production
@@ -27,6 +29,7 @@ Then to run in production:
 
 ##Notes 
 To access the app on heroku, use the domain: `https://kindhealth-demo.herokuapp.com/`
+
 
 
 
